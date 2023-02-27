@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yael tal</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-<h3 align="center" backgroundColor="#282a36">Connect with me:</h3>
+<h3 align="center" color="#282a36">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yael-tal-77283a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yael-tal-77283a249" height="30" width="40" /></a>
 </p>
